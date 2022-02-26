@@ -1,0 +1,9 @@
+,Country,time zone,Time_out,Time_in,City,web_browser,operating_sys,from_url,to_url,Longtuide,Latituide
+0,US,America/New_York,1333307030,1333307037,Danvers,Mozilla/5.0,Windows NT 6.1,www.facebook.com,www.ncbi.nlm.nih.gov,42.576698, -70.954903
+1,US,America/New_York,1333407030,1333407035,Washington,Mozilla/4.0,Windows NT 6.1,t.co,boxer.senate.gov,38.9007, -77.043098
+2,BR,America/Sao_Paulo,1333507030,1333507044,Braz,Mozilla/5.0,Macintosh,direct,apod.nasa.gov,-23.549999, -46.616699
+3,US,America/New_York,1333607030,1333607039,Shrewsbury,Mozilla/5.0,Windows NT 6.1,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,42.286499, -71.714699
+4,US,America/New_York,1333707030,1333707048,Shrewsbury,Mozilla/5.0,Windows NT 6.1,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,42.286499, -71.714699
+5,PL,Europe/Warsaw,1333807030,1333807040,Luban,Mozilla/5.0,Windows NT 5.1,plus.url.google.com,www.nasa.gov,51.116699, 15.2833
+6,US,America/Los_Angeles,1334107030,1334107040,Seattle,Mozilla/5.0,Windows NT 6.1,direct,www.nysdot.gov,47.5951, -122.332603
+7,US,America/New_York,1334207040,1334207043,Washington,Mozilla/5.0,Macintosh,t.co,oversight.house.gov,38.937599, -77.092796
